@@ -153,3 +153,9 @@ RUN_FULL_EVAL=1 python main.py
 - **Course:** AIE425 — Intelligent Recommender System
 - **University:** Alamein International University
 - **Faculty:** Computer Science & Engineering
+
+---
+
+## Author
+
+Tasneem Ibrahim - Rana Sakr - Marc Ihab
